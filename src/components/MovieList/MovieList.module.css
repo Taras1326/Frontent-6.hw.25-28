@@ -1,0 +1,14 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .link {
+    color: #1565c0;
+    text-decoration: none;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }

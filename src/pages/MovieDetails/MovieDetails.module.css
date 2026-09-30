@@ -1,0 +1,30 @@
+.container {
+    padding: 30px;
+  }
+  
+  .back {
+    display: inline-block;
+    margin-bottom: 20px;
+  }
+  
+  .movie {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .poster {
+    width: 300px;
+    height: auto;
+  }
+  
+  .info {
+    max-width: 700px;
+  }
+  
+  .additionalList {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+  }
