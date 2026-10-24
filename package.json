@@ -1,9 +1,9 @@
 {
-  "name": "frontent-6-hw-25-28",
+  "name": "frontent-6.hw.25-28",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Taras1326.github.io/frontent-6-hw-25-28",
+  "homepage": "https://Taras1326.github.io/frontent-6.hw.25-28",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
