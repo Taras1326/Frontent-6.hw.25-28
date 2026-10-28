@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/frontent-6.hw.25-28/"
+  base: "/Frontent-6.hw.25-28/"
 })
